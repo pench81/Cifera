@@ -1,0 +1,14 @@
+{% extends "layout.twig" %}
+{% block content %}
+
+	<header class="template-header">	
+		{% include "header.twig" %}
+	</header>
+
+	<div class="container page-wrap">
+
+		<section class="section main default-page">
+			{{zone('main')|raw}}
+		</section>
+
+{% endblock %}

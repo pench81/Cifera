@@ -1,0 +1,14 @@
+<div class="footer-wrap">
+	<footer class="container template-footer">
+		<div class="row footer-content">
+			<div class="span-6 pages">
+				{{widget('content', 'contacttitle', {content: '<h3>Lorem Ipsum</h3>'})|raw}}
+				{{widget('profile', 'footercolumn1profilesocialicons', { 'profileType' : 'socialicons' })|raw}}
+			</div>
+			<div class="span-6 contact">
+				{{widget('content', 'pagestitle', {content: '<h3>Lorem Ipsum</h3>'})|raw}}
+				{{widget('signupform', 'thisunqiuewidgetname', {'text': 'Send', 'label': 'Your Email', 'formTitle': 'Signup Form', 'email': 'profile'})|raw}}
+			</div>
+		</div>
+	</footer>
+</div>
