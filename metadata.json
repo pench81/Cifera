@@ -54,9 +54,9 @@
         }
     },
     "fontSwatch": {
-       "title": "Lobster / Open Sans",
+       "title": "Raleway / Open Sans",
         "font1": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "34px",
             "font-weight": "700",
             "line-height": "44px",
