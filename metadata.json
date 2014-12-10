@@ -54,9 +54,9 @@
         }
     },
     "fontSwatch": {
-       "title": "Raleway / Open Sans",
+       "title": "Courgette / sans-serif",
         "font1": {
-            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Courgette\", \"Lucida Grande\", sans-serif",
             "font-size": "34px",
             "font-weight": "700",
             "line-height": "44px",
