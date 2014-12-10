@@ -54,7 +54,7 @@
         }
     },
     "fontSwatch": {
-       "title": "Lobster / Open Sans",
+       "title": "Raleway / Open Sans",
         "font1": {
             "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "34px",
@@ -64,7 +64,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "28px",
             "font-weight": "600",
             "line-height": "38px",
@@ -80,7 +80,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "15px",
             "font-weight": "600",
             "line-height": "25px",
@@ -96,7 +96,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "15px",
             "font-weight": "600",
             "line-height": "25px",
@@ -118,7 +118,7 @@
             "background-color-hover": "darken(@color-swatch3, 10%)"
         },
         "font8": {
-            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "32px",
             "font-weight": "700",
             "line-height": "42px",
@@ -134,7 +134,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Lobster\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
             "font-size": "20px",
             "font-weight": "700",
             "line-height": "30px",
